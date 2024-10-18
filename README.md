@@ -16,7 +16,7 @@ Este repositório fornece um guia passo a passo para implantar o Ollama, um pode
 1. **Clone este repositório:**
 
 ```bash
-git clone [URL inválido removido]
+git clone https://github.com/MarceloNunesAlves/ollama_k8s.git
 ```
 
 2. **Edite o arquivo deploy.yaml:**
